@@ -1,4 +1,4 @@
-package com.registrocivil.recursos;
+package recursos;
 
 import java.util.List;
 
@@ -12,9 +12,9 @@ import jakarta.ws.rs.PathParam;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 
-import com.registrocivil.modelo.dao.PersonaDAO;
-import com.registrocivil.modelo.entity.Persona;
-import com.registrocivil.modelo.servicios.PersonaService;
+import modelo.dao.PersonaDAO;
+import modelo.entity.Persona;
+import modelo.servicios.PersonaService;
 
 @Path("/personas")
 public class RecursoPersona {

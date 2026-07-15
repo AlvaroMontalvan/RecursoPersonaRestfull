@@ -1,7 +1,7 @@
-package com.registrocivil.modelo.servicios;
+package modelo.servicios;
 
-import com.registrocivil.modelo.dao.PersonaDAO;
-import com.registrocivil.modelo.entity.Persona;
+import modelo.dao.PersonaDAO;
+import modelo.entity.Persona;
 
 public class PersonaService {
 

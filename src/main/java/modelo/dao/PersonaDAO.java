@@ -1,9 +1,9 @@
-package com.registrocivil.modelo.dao;
+package modelo.dao;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.registrocivil.modelo.entity.Persona;
+import modelo.entity.Persona;
 
 public class PersonaDAO {
 

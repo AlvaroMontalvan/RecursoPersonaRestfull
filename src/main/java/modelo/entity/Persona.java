@@ -1,4 +1,4 @@
-package com.registrocivil.modelo.entity;
+package modelo.entity;
 
 public class Persona {
 
