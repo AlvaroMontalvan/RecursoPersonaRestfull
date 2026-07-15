@@ -1,0 +1,8 @@
+target/
+build/
+.idea/
+.settings/
+.smarttomcat/
+tomcat.8080/
+*.class
+*.log
